@@ -1,18 +1,18 @@
 # CRUD UTILIZANDO REACT, JSON SERVER, AXIOS, REACT-ROUTER E REACT-TABLE
 
-##Propósito dessa Aplicação:
+## Propósito dessa Aplicação:
 
 Essa Aplicação se chama Minha Lista de Filmes Para Assistir e nela o usuário pode fazer o cadastro dos filmes que deseja assistir, inserindo nela o Título do Filme, a Sinopse, A data de lançamento do filme e o Gênero do filme. Além de Cadastrar o Filme, é possível listar os filmes cadastrado, editar um filme já cadastrado e excluir esse mesmo filme.
 
 
-##Requisitos
+## Requisitos
 
 Para rodar essa aplicação, os requistos são:
 
-- Node v14.17.0
+- **Node v14.17.0**
 
 
-##Executar
+## Executar
 
 Após clonar o repositório, para executar o projeto, abra o projeto em uma IDE compatível, (Recomenda-se VSCode), abra um terminal e execute o comando
 
